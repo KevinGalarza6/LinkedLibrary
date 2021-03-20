@@ -24,3 +24,16 @@ E:\Projetos Felipe\Linked list library\Library\obj\Debug\netcoreapp3.1\Library.c
 E:\Projetos Felipe\Linked list library\Library\obj\Debug\netcoreapp3.1\Library.dll
 E:\Projetos Felipe\Linked list library\Library\obj\Debug\netcoreapp3.1\Library.pdb
 E:\Projetos Felipe\Linked list library\Library\obj\Debug\netcoreapp3.1\Library.genruntimeconfig.cache
+E:\git kevin\teste\Library\bin\Debug\netcoreapp3.1\Library.exe
+E:\git kevin\teste\Library\bin\Debug\netcoreapp3.1\Library.deps.json
+E:\git kevin\teste\Library\bin\Debug\netcoreapp3.1\Library.runtimeconfig.json
+E:\git kevin\teste\Library\bin\Debug\netcoreapp3.1\Library.runtimeconfig.dev.json
+E:\git kevin\teste\Library\bin\Debug\netcoreapp3.1\Library.dll
+E:\git kevin\teste\Library\bin\Debug\netcoreapp3.1\Library.pdb
+E:\git kevin\teste\Library\obj\Debug\netcoreapp3.1\Library.csprojAssemblyReference.cache
+E:\git kevin\teste\Library\obj\Debug\netcoreapp3.1\Library.AssemblyInfoInputs.cache
+E:\git kevin\teste\Library\obj\Debug\netcoreapp3.1\Library.AssemblyInfo.cs
+E:\git kevin\teste\Library\obj\Debug\netcoreapp3.1\Library.csproj.CoreCompileInputs.cache
+E:\git kevin\teste\Library\obj\Debug\netcoreapp3.1\Library.dll
+E:\git kevin\teste\Library\obj\Debug\netcoreapp3.1\Library.pdb
+E:\git kevin\teste\Library\obj\Debug\netcoreapp3.1\Library.genruntimeconfig.cache

@@ -187,14 +187,17 @@ namespace Library
                 {
                     for (var j = 0; j < temp.Length; j++)
                     {
-                        if (j == i)
-                            j++;
-
-                        if (j > i)
-                            library[j - 1] = new Node() { Book = temp[j].Book };
-                        else
+                        if (j < library.Length)
                         {
-                            library[j] = new Node() { Book = temp[j].Book };
+                            if (j == i)
+                                j++;
+
+                            if (j > i)
+                                library[j - 1] = new Node() { Book = temp[j].Book };
+                            else
+                            {
+                                library[j] = new Node() { Book = temp[j].Book };
+                            }
                         }
                     }
                 }
