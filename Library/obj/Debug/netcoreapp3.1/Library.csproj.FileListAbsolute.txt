@@ -1,0 +1,26 @@
+E:\Projetos Felipe\Library\Library\obj\Debug\netcoreapp3.1\Library.csprojAssemblyReference.cache
+E:\Projetos Felipe\Library\Library\obj\Debug\netcoreapp3.1\Library.AssemblyInfoInputs.cache
+E:\Projetos Felipe\Library\Library\obj\Debug\netcoreapp3.1\Library.AssemblyInfo.cs
+E:\Projetos Felipe\Library\Library\obj\Debug\netcoreapp3.1\Library.csproj.CoreCompileInputs.cache
+E:\Projetos Felipe\Library\Library\bin\Debug\netcoreapp3.1\Library.exe
+E:\Projetos Felipe\Library\Library\bin\Debug\netcoreapp3.1\Library.deps.json
+E:\Projetos Felipe\Library\Library\bin\Debug\netcoreapp3.1\Library.runtimeconfig.json
+E:\Projetos Felipe\Library\Library\bin\Debug\netcoreapp3.1\Library.runtimeconfig.dev.json
+E:\Projetos Felipe\Library\Library\bin\Debug\netcoreapp3.1\Library.dll
+E:\Projetos Felipe\Library\Library\bin\Debug\netcoreapp3.1\Library.pdb
+E:\Projetos Felipe\Library\Library\obj\Debug\netcoreapp3.1\Library.dll
+E:\Projetos Felipe\Library\Library\obj\Debug\netcoreapp3.1\Library.pdb
+E:\Projetos Felipe\Library\Library\obj\Debug\netcoreapp3.1\Library.genruntimeconfig.cache
+E:\Projetos Felipe\Linked list library\Library\bin\Debug\netcoreapp3.1\Library.exe
+E:\Projetos Felipe\Linked list library\Library\bin\Debug\netcoreapp3.1\Library.deps.json
+E:\Projetos Felipe\Linked list library\Library\bin\Debug\netcoreapp3.1\Library.runtimeconfig.json
+E:\Projetos Felipe\Linked list library\Library\bin\Debug\netcoreapp3.1\Library.runtimeconfig.dev.json
+E:\Projetos Felipe\Linked list library\Library\bin\Debug\netcoreapp3.1\Library.dll
+E:\Projetos Felipe\Linked list library\Library\bin\Debug\netcoreapp3.1\Library.pdb
+E:\Projetos Felipe\Linked list library\Library\obj\Debug\netcoreapp3.1\Library.csprojAssemblyReference.cache
+E:\Projetos Felipe\Linked list library\Library\obj\Debug\netcoreapp3.1\Library.AssemblyInfoInputs.cache
+E:\Projetos Felipe\Linked list library\Library\obj\Debug\netcoreapp3.1\Library.AssemblyInfo.cs
+E:\Projetos Felipe\Linked list library\Library\obj\Debug\netcoreapp3.1\Library.csproj.CoreCompileInputs.cache
+E:\Projetos Felipe\Linked list library\Library\obj\Debug\netcoreapp3.1\Library.dll
+E:\Projetos Felipe\Linked list library\Library\obj\Debug\netcoreapp3.1\Library.pdb
+E:\Projetos Felipe\Linked list library\Library\obj\Debug\netcoreapp3.1\Library.genruntimeconfig.cache
